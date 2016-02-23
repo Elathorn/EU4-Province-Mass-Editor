@@ -1,0 +1,5 @@
+D:\Steam Sream\SteamApps\common\Europa Universalis IV\history\provinces - Copy\
+
+
+MUST END WITH BACKSLASH!
+Exact location of folder with provinces files. 
